@@ -1,4 +1,4 @@
-# Hi there, I'm Fahad Khan! 👋
+# Hi there, I'm Fahad! 👋
 
 **Full Stack Engineer** | Java • JavaScript • Spring Boot • ReactJS
 
