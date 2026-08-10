@@ -1,6 +1,6 @@
 # Mohd Fahad 
 
-### Application Developer @ IBM | Full-Stack Enterprise Engineer 🚀
+### Application Developer @ IBM | Full-Stack Enterprise Engineer
 
 Senior-level Application Developer with deep architectural expertise in building scalable cloud-native applications. Proven track record of delivering high-throughput systems for global enterprises including **Microsoft**, **American Express**, and **Motorola Solutions**. Specialized in backend microservices architectures, robust state management, and modern cloud ecosystems.
 
@@ -44,17 +44,9 @@ Senior-level Application Developer with deep architectural expertise in building
 
 ### 🤝 Corporate Networking
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/fahadkhan174/" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://fahadkhan174.github.io/" target="_blank">
-    <img src="https://shields.io" alt="Portfolio Website" />
-  </a>
-  <a href="mailto:fahadkhan174@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Portfolio](https://shields.io)](https://github.io)
+[![Email](https://shields.io)](mailto:fahadkhan174@gmail.com)
 
 ---
 *Open to core engineering tracks, distributed systems architecture design roles, and advanced tech initiatives at scale.*
