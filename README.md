@@ -19,17 +19,17 @@ Senior-level Application Developer with deep architectural expertise in building
 
 ### 🚀 Featured Engineering Repositories
 
-#### 🧠 [learn-spring-ai](https://github.com)
+#### 🧠 [learn-spring-ai](https://github.com/fahadkhan174/learn-spring-ai)
 *   **Core Focus:** Local-first Spring AI prototyping engine.
 *   **Architecture Implementation:** Built Retrieval-Augmented Generation (RAG), structured data extraction, and multi-agent orchestration engines utilizing Ollama and `pgvector`.
 *   **Interface Layer:** Driven by a high-performance SvelteKit user interface to manage data extraction pipelines natively.
 
-#### 📱 [local-ai-app](https://github.com)
+#### 📱 [local-ai-app](https://github.com/fahadkhan174/local-ai-app)
 *   **Core Focus:** Offline, privacy-first Android client orchestration.
 *   **AI Integration:** Powered entirely via on-device Gemma 2B LLM local execution loops utilizing Google's MediaPipe GenAI SDK.
 *   **Design Pattern:** Zero server reliance, zero API keys, and strict local inference stream handlers built natively in Kotlin.
 
-#### 🌐 [fahadkhan174.github.io](https://github.io)
+#### 🌐 [fahadkhan174.github.io](https://fahadkhan174.github.io/)
 *   **Core Focus:** Personal portfolio platform and technical showcase.
 *   **Tech Stack:** Engineered with SvelteKit, TypeScript, and TailwindCSS to outline complex historical business logic migrations.
 
@@ -45,10 +45,10 @@ Senior-level Application Developer with deep architectural expertise in building
 ### 🤝 Corporate Networking
 
 <p align="left">
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/fahadkhan174/)" target="_blank">
+  <a href="https://www.linkedin.com/in/fahadkhan174/" target="_blank">
     <img src="[https://shields.io](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)" alt="LinkedIn" />
   </a>
-  <a href="[https://github.io](https://github.com/fahadkhan174)" target="_blank">
+  <a href="https://github.com/fahadkhan174" target="_blank">
     <img src="[https://shields.io](https://img.shields.io/badge/Website-222?logo=githubpages&logoColor=white)" alt="Portfolio Website" />
   </a>
   <a href="mailto:fahadkhan174@gmail.com">
