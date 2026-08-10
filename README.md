@@ -44,9 +44,17 @@ Senior-level Application Developer with deep architectural expertise in building
 
 ### 🤝 Corporate Networking
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin)](https://www.linkedin.com/in/fahadkhan174/)
-[![Portfolio](https://img.shields.io/badge/github-blue?logo=github)](https://github.com/fahadkhan174)
-[![Email](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:fahadkhan174@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/fahadkhan174/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://fahadkhan174.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Github-2b3137?logo=github&logoColor=white&style=plastic" alt="Portfolio Website" />
+  </a>
+  <a href="mailto:fahadkhan174@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-c71610?logo=gmail&logoColor=white&style=plastic" alt="Email" />
+  </a>
+</p>
 
 ---
 *Open to core engineering tracks, distributed systems architecture design roles, and advanced tech initiatives at scale.*
