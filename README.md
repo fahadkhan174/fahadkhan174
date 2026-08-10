@@ -12,7 +12,7 @@ Senior-level Application Developer with deep architectural expertise in building
 | :--- | :--- |
 | **Backend & Microservices** | Java, Spring Boot, Spring MVC, Vert.x, RESTful APIs, Microservices Architecture |
 | **Frontend Engineering** | ReactJS, Redux, SvelteKit, TypeScript, Material UI, TailwindCSS |
-| **Cloud, Data & Message Brokers**| AWS, Azure, Kafka, MongoDB, MySQL, Couchbase, IBM Cloudant, DB2 |
+| **Cloud, Data & Message Brokers**| AWS, Kafka, MongoDB, MySQL, Couchbase, IBM Cloudant, DB2 |
 | **Tools & Pipelines** | GitHub Actions, Git, Jenkins, Maven, Gradle, JMeter |
 
 ---
