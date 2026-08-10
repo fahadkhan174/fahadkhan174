@@ -46,7 +46,7 @@ Senior-level Application Developer with deep architectural expertise in building
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/fahadkhan174/)
 [![Gmail](https://img.shields.io/badge/Gmail-c71610?logo=gmail&logoColor=white&style=plastic)](mailto:fahadkhan174@gmail.com)
-[![Website](https://img.shields.io/badge/Website-222?logo=githubpages&logoColor=white&style=plastic)](https://fahadkhan174.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ec4d29?logo=svelte&logoColor=white&logoColor=white&style=plastic)](https://fahadkhan174.github.io/)
 [![Github](https://img.shields.io/badge/Github-2b3137?logo=github&logoColor=white&style=plastic)](https://github.com/fahadkhan174)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=plastic)](https://www.instagram.com/fahad_clicks_/)
 
