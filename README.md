@@ -1,40 +1,60 @@
-# Hi there, I'm Fahad! 👋
+# Mohd Fahad 
 
-**Full Stack Engineer** | Java • JavaScript • Spring Boot • ReactJS
+### Application Developer @ IBM | Full-Stack Enterprise Engineer 🚀
 
----
-
-🌟 Welcome to my GitHub profile! I’m a passionate developer who loves building robust web applications and exploring the latest in tech.
-
-## 🚀 About Me
-
-- 💻 **Profession:** Full Stack Engineer
-- 🛠️ **Tech Stack:** Java, JavaScript, Spring Boot, ReactJS
-- 🎨 **Hobbies:** Drawing, discovering new technologies, and continuous learning
-
-## 🌐 Featured Project
-
-- **Portfolio Website:**  
-  [fahadkhan174.github.io](https://fahadkhan174.github.io/)  
-  _A showcase of my work, skills, and journey as a developer!_
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-fahad-123205101/)
-[![Website](https://img.shields.io/badge/Website-222?logo=githubpages&logoColor=white)](https://fahadkhan174.github.io/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/fahadkhan174/)
-
-## 🧰 Tools & Technologies
-
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-
-## ✨ Fun Fact
-
-When I’m not coding, you’ll find me sketching or diving into new technologies to keep my skills sharp and my curiosity alive!
+Senior-level Application Developer with deep architectural expertise in building scalable cloud-native applications. Proven track record of delivering high-throughput systems for global enterprises including **Microsoft**, **American Express**, and **Motorola Solutions**. Specialized in backend microservices architectures, robust state management, and modern cloud ecosystems.
 
 ---
 
-_Thanks for stopping by! Let’s connect and build something amazing together._ 🚀
+### 🛠 Tech Stack & Architecture Domain
+
+| Domain | Enterprise Ecosystem Technologies |
+| :--- | :--- |
+| **Backend & Microservices** | Java, Spring Boot, Spring MVC, Vert.x, RESTful APIs, Microservices Architecture |
+| **Frontend Engineering** | ReactJS, Redux, SvelteKit, TypeScript, Material UI, TailwindCSS |
+| **Cloud, Data & Message Brokers**| AWS, Azure, Kafka, MongoDB, MySQL, Couchbase, IBM Cloudant, DB2 |
+| **Tools & Pipelines** | GitHub Actions, Git, Jenkins, Maven, Gradle, JMeter |
+
+---
+
+### 🚀 Featured Engineering Repositories
+
+#### 🧠 [learn-spring-ai](https://github.com)
+*   **Core Focus:** Local-first Spring AI prototyping engine.
+*   **Architecture Implementation:** Built Retrieval-Augmented Generation (RAG), structured data extraction, and multi-agent orchestration engines utilizing Ollama and `pgvector`.
+*   **Interface Layer:** Driven by a high-performance SvelteKit user interface to manage data extraction pipelines natively.
+
+#### 📱 [local-ai-app](https://github.com)
+*   **Core Focus:** Offline, privacy-first Android client orchestration.
+*   **AI Integration:** Powered entirely via on-device Gemma 2B LLM local execution loops utilizing Google's MediaPipe GenAI SDK.
+*   **Design Pattern:** Zero server reliance, zero API keys, and strict local inference stream handlers built natively in Kotlin.
+
+#### 🌐 [fahadkhan174.github.io](https://github.io)
+*   **Core Focus:** Personal portfolio platform and technical showcase.
+*   **Tech Stack:** Engineered with SvelteKit, TypeScript, and TailwindCSS to outline complex historical business logic migrations.
+
+---
+
+### 🛡 Certifications & Professional Milestones
+*   **AWS Certified Cloud Practitioner** (Dec 2025 | Validation: `EZWZ2N32QM4E1S5M`)
+*   **MongoDB Certified Java Developer** (M101J)
+*   **Enterprise System Migrations:** Successfully refactored legacy monolith systems into distributed microservices architectures for multiple Fortune 500 vendors.
+
+---
+
+### 🤝 Corporate Networking
+
+<p align="left">
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/fahadkhan174/)" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="[https://github.io](https://github.com/fahadkhan174)" target="_blank">
+    <img src="https://shields.io" alt="Portfolio Website" />
+  </a>
+  <a href="mailto:fahadkhan174@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
+
+---
+*Open to core engineering tracks, distributed systems architecture design roles, and advanced tech initiatives at scale.*
