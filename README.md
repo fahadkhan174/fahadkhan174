@@ -46,10 +46,10 @@ Senior-level Application Developer with deep architectural expertise in building
 
 <p align="left">
   <a href="[https://linkedin.com](https://www.linkedin.com/in/fahadkhan174/)" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img src="[https://shields.io](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)" alt="LinkedIn" />
   </a>
   <a href="[https://github.io](https://github.com/fahadkhan174)" target="_blank">
-    <img src="https://shields.io" alt="Portfolio Website" />
+    <img src="[https://shields.io](https://img.shields.io/badge/Website-222?logo=githubpages&logoColor=white)" alt="Portfolio Website" />
   </a>
   <a href="mailto:fahadkhan174@gmail.com">
     <img src="https://shields.io" alt="Email" />
