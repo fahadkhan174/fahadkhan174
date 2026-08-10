@@ -45,13 +45,13 @@ Senior-level Application Developer with deep architectural expertise in building
 ### 🤝 Corporate Networking
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/fahadkhan174/" target="_blank">
+  <a href="https://www.linkedin.com/in/fahadkhan174/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://fahadkhan174.github.io/" target="_blank">
+  <a href="https://fahadkhan174.github.io/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Github-2b3137?logo=github&logoColor=white&style=plastic" alt="Portfolio Website" />
   </a>
-  <a href="mailto:fahadkhan174@gmail.com">
+  <a href="mailto:fahadkhan174@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-c71610?logo=gmail&logoColor=white&style=plastic" alt="Email" />
   </a>
 </p>
