@@ -14,6 +14,7 @@ Senior-level Application Developer with deep architectural expertise in building
 | **Frontend Engineering** | ReactJS, Redux, SvelteKit, TypeScript, Material UI, TailwindCSS |
 | **Cloud, Data & Message Brokers**| AWS, Kafka, MongoDB, MySQL, Couchbase, IBM Cloudant, DB2 |
 | **Tools & Pipelines** | GitHub Actions, Git, Jenkins, Maven, Gradle, JMeter |
+| **Gen AI and Agents** | IBM Bob, Claude Code |
 
 ---
 
